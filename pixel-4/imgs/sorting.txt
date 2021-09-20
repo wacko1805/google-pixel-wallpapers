@@ -1,0 +1,21 @@
+imgs/pixel-4-arabia_Technastic.com.png
+imgs/pixel-4-compass-black_Technastic.com.png
+imgs/pixel-4-compass-white_Technastic.com.png
+imgs/pixel-4-doodle-android_Technastic.com.png
+imgs/pixel-4-doodle-black-green_Technastic.com.png
+imgs/pixel-4-doodle-black_Technastic.com.png
+imgs/pixel-4-doodle-dark_Technastic.com.png
+imgs/pixel-4-doodle-gray_Technastic.com.png
+imgs/pixel-4-doodle-orange_Technastic.com.png
+imgs/pixel-4-doodle-white_Technastic.com.png
+imgs/pixel-4-garden-v1-black_Technastic.com.png
+imgs/pixel-4-garden-v1_Technastic.com.png
+imgs/pixel-4-garden-v2-black_Technastic.com.png
+imgs/pixel-4-garden-v2_Technastic.com.png
+imgs/pixel-4-garden-v3-black_Technastic.com.png
+imgs/pixel-4-garden-v3_Technastic.com.png
+imgs/pixel-4-sights-v2_Technastic.com.png
+imgs/pixel-4-sights_Technastic.com.png
+imgs/pixel-4-switzerland_Technastic.com.png
+imgs/pixel-4-uluru-_Technastic.com.png
+imgs/pixel 4 official render_Technastic.com.png
