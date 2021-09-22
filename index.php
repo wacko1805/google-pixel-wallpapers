@@ -4,6 +4,7 @@ header("Content-type: application/json; charset=utf-8");
 $protocol = ((!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] != 'off') || $_SERVER['SERVER_PORT'] == 443) ? "https://" : "http://";
 $url = $protocol . $_SERVER['HTTP_HOST'];
 echo "[";
+include('iwd.php');
 include('bhm.php');
 include('ed.php');
 include('AAPI.php');
