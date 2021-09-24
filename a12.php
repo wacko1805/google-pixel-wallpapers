@@ -1,6 +1,6 @@
 <?php
 $dir_name = "android12/";
-$images = glob($dir_name."*.jpg");
+$images = glob($dir_name."*.png");
 
 foreach($images as $image) {
     $name = basename($image);
