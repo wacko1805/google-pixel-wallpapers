@@ -1,5 +1,5 @@
 <?php
-$images = glob($dir_name."*.{jpg,png,gif}", GLOB_BRACE);
+$images = glob($dir_name."*.{jpg,png,gif,jpeg}", GLOB_BRACE);
 
 foreach($images as $image) {
     $name_raw = basename($image);
