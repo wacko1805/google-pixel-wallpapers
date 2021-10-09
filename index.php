@@ -14,6 +14,8 @@ $arr =  array(
 echo "[";
 echo json_encode($arr);
 echo ",";
+include('p6l.php')
+include('p6a.php')
 include('p6.php');
 include('a12.php');
 include('p5a.php');
