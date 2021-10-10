@@ -3,7 +3,7 @@ header('Access-Control-Allow-Origin: *');
 header("Content-type: application/json; charset=utf-8");
 $protocol = ((!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] != 'off') || $_SERVER['SERVER_PORT'] == 443) ? "https://" : "http://";
 $url = $protocol . $_SERVER['HTTP_HOST'];
-$imagecount = count(glob("*/*.{jpg,png,gif}", GLOB_BRACE));
+$imagecount = count(glob("*/*.{jpg,png,gif,jpeg}", GLOB_BRACE));
 $arr =  array(
     "info" => array (
         "Title" => "Pixel Wallpapers", 
