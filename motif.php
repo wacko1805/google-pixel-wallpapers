@@ -1,5 +1,5 @@
 <?php
-$dir_name = "motif/";
+$dir_name = "Motif/";
 $coll = "Pixel-6-Motif";
 include('main.php');
 ?>
