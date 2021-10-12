@@ -13,7 +13,7 @@ $arr =  array(
 echo "[";
 echo json_encode($arr);
 echo ",";
-include('Motif.php');
+include('motif.php');
 include('P6l.php');
 include('P6a.php');
 include('p6.php');
