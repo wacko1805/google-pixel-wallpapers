@@ -1,5 +1,5 @@
 <?php
-$dir_name = "aosp/";
+$dir_name = "../aosp/";
 $coll = "AOSP";
 include('main.php');
 ?>

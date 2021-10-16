@@ -1,5 +1,5 @@
 <?php
-$dir_name = "shot-on-pixel/";
+$dir_name = "../shot-on-pixel/";
 $coll = "Shot on Pixel";
 include('main.php');
 ?>
