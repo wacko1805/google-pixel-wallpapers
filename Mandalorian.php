@@ -1,5 +1,5 @@
 <?php
-$dir_name = "../Mandalorian/";
+$dir_name = "Mandalorian/";
 $coll = "Mandalorian";
 include('main.php');
 
